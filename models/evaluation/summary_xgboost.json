@@ -1,0 +1,14 @@
+{
+  "Best Dataset": "wind_onshore",
+  "Best MSE": 224238.32008881934,
+  "Best Hyperparameters": {
+    "Maximum Tree Depth": 5,
+    "Minimum Child Weight": null,
+    "Learning Rate (Shrinkage)": 0.03,
+    "Number of Estimators (Trees)": 300,
+    "Subsample": 0.8,
+    "Colsample By Tree": 0.8,
+    "Reg Alpha": 0,
+    "Reg Lambda": 1
+  }
+}

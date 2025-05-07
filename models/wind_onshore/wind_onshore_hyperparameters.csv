@@ -1,0 +1,9 @@
+Hyperparameter,Value
+Maximum Tree Depth,5.0
+Minimum Child Weight,
+Learning Rate (Shrinkage),0.03
+Number of Estimators (Trees),300.0
+Subsample,0.8
+Colsample By Tree,0.8
+Reg Alpha,0.0
+Reg Lambda,1.0

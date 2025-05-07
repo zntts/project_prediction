@@ -1,0 +1,11 @@
+Feature,Importance
+num__hybrid_profile,0.64252937
+num__Basel_Diffuse_Shortwave_Radiation_x,0.103201576
+num__hybrid_capacity,0.07764058
+num__Basel_Soil_Moisture_100-255_cm_down_x,0.04745547
+num__Basel_UV_Radiation_x,0.028408168
+num__Basel_Potential_Evaporation_x,0.027043074
+num__month,0.026543258
+num__hour,0.01860263
+num__Basel_Wind_Direction_100_m_x,0.017677795
+num__Basel_Soil_Moisture_7-28_cm_down_x,0.010898113

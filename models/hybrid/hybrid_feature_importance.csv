@@ -1,0 +1,11 @@
+Feature,Importance
+Basel_Wind_Direction_100_m_x,0.017677795
+Basel_UV_Radiation_x,0.028408168
+Basel_Diffuse_Shortwave_Radiation_x,0.103201576
+Basel_Potential_Evaporation_x,0.027043074
+Basel_Soil_Moisture_7-28_cm_down_x,0.010898113
+Basel_Soil_Moisture_100-255_cm_down_x,0.04745547
+hybrid_capacity,0.07764058
+hybrid_profile,0.64252937
+hour,0.01860263
+month,0.026543258

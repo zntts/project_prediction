@@ -1,0 +1,77 @@
+Basel Temperature [2 m elevation corrected]
+Basel Growing Degree Days [2 m elevation corrected]
+Basel Temperature [900 mb]
+Basel Temperature [850 mb]
+Basel Temperature [800 mb]
+Basel Temperature [700 mb]
+Basel Temperature [500 mb]
+Basel Precipitation Total
+Basel Relative Humidity [2 m]
+Basel Snowfall Amount
+Basel Snow Depth
+Basel Wind Gust
+Basel Wind Speed [10 m]
+Basel Wind Direction [10 m]
+Basel Wind Speed [100 m]
+Basel Wind Direction [100 m]
+Basel Wind Speed [900 mb]
+Basel Wind Direction [900 mb]
+Basel Wind Speed [850 mb]
+Basel Wind Direction [850 mb]
+Basel Wind Speed [800 mb]
+Basel Wind Direction [800 mb]
+Basel Wind Speed [700 mb]
+Basel Wind Direction [700 mb]
+Basel Wind Speed [500 mb]
+Basel Wind Direction [500 mb]
+Basel Wind Speed [250 mb]
+Basel Wind Direction [250 mb]
+Basel Cloud Cover Total
+Basel Cloud Cover High [high cld lay]
+Basel Cloud Cover Medium [mid cld lay]
+Basel Cloud Cover Low [low cld lay]
+Basel CAPE [180-0 mb above gnd]
+Basel Sunshine Duration
+Basel Shortwave Radiation
+Basel Longwave Radiation
+Basel UV Radiation
+Basel Direct Shortwave Radiation
+Basel Diffuse Shortwave Radiation
+Basel Mean Sea Level Pressure [MSL]
+Basel Geopotential Height [1000 mb]
+Basel Geopotential Height [850 mb]
+Basel Geopotential Height [800 mb]
+Basel Geopotential Height [700 mb]
+Basel Geopotential Height [500 mb]
+Basel Evapotranspiration
+Basel Potential Evaporation
+Basel FAO Reference Evapotranspiration [2 m]
+Basel Vapor Pressure Deficit [2 m]
+Basel PBL Height
+Basel Temperature
+Basel Soil Temperature [0-7 cm down]
+Basel Soil Temperature [7-28 cm down]
+Basel Soil Temperature [28-100 cm down]
+Basel Soil Temperature [100-255 cm down]
+Basel Soil Moisture [0-7 cm down]
+Basel Soil Moisture [7-28 cm down]
+Basel Soil Moisture [28-100 cm down]
+Basel Soil Moisture [100-255 cm down]
+Basel Soil Moisture Available To Plant [0-7 cm down]
+Basel Soil Moisture Available To Plant [7-28 cm down]
+Basel Soil Moisture Available To Plant [28-100 cm down]
+Basel Soil Moisture Available To Plant [100-255 cm down]
+hybrid_capacity
+hybrid_profile
+hour
+day_of_week
+month
+year
+quarter
+day_of_year
+lag_24
+temp_x_wind
+humidity_div_radiation
+cloud_x_uv
+hour_x_radiation
+wind_gust_diff
